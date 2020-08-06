@@ -1,4 +1,6 @@
 # 👨‍💻 Welcome To My Github Profile!
+![](https://komarev.com/ghpvc/?username=amit-talentica)
+
 <img src = "https://github.com/amit-talentica/amit-talentica/blob/master/github2.png">
 I'm a Software Engineer who is eager to learn new technologies and capable to work with the team.Graduated with a B.Tech in Computer Science Engineering from National Institute of Technology, Rourkela, with multiple skills. Well versed with Python, Machine learning, Web Scraping.
 
